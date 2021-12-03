@@ -24,7 +24,7 @@
 
 ## LAYOUT
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/proto/ro4dtVvPcNcUzMdf6uszYN/something?node-id=256%3A171&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=256%3A171&show-proto-sidebar=1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ro4dtVvPcNcUzMdf6uszYN/something?node-id=249%3A90). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## REDES SOCIAIS
 
