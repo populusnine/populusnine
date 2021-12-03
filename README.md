@@ -26,11 +26,11 @@
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/proto/ro4dtVvPcNcUzMdf6uszYN/something?node-id=256%3A171&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=256%3A171&show-proto-sidebar=1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-#REDES SOCIAIS
+## REDES SOCIAIS
 
 - [Instagram](www.instagram.com/populusnine)
 - [Twitter](www.twitter.com/populusnine)
-- [Gmail](popninedemoday@gmail.com)
+- [Gmail](mailto:popninedemoday@gmail.com)
 
 ## DESENVOLVEDORES 
 
@@ -44,6 +44,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 | Matheus | [Matheus Fernandes](https://www.linkedin.com/in/matheus-fernandes--/) | [Math-x18](https://github.com/Math-x18) |
 | Marina  | [Marina Takahashi](https://www.linkedin.com/in/marina-takahashi/) | [poimaripoi](https://github.com/poimaripoi) |
 
-## :memo: LICENÇA
+## LICENÇA
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
