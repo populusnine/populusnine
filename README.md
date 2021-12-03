@@ -24,9 +24,8 @@
 
 ## DESENVOLVEDORES 
 
-| NOME | LINKEDIN | GITHUB |
-|--- |--- |--- |
-| Anelizi Carvalho | [LINK](https://www.linkedin.com/in/anelizi-carvalho-silva-204b741a4/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC_e1yQBsMFBZA3pQlesWr1p1Ob0JkyRoRY) | [LINK]()|
+
+| Anelizi Carvalho | [LINK](https://www.linkedin.com/in/anelizi-carvalho-silva-204b741a4/) | [Anelizi](https://github.com/Anelizi)|
 | Carlos Eduardo | [LINK](https://www.linkedin.com/in/eduardo-fernandes-1001/) | [cadunands](https://github.com/cadunands) |
 | Douglas Almeida | [LINK](https://www.linkedin.com/in/douglas--nascimento/) | [DouglasN1712](https://github.com/DouglasN1712) |
 | Gabrielly Dias | [LINK](https://www.linkedin.com/in/gabriellyvitoriadias/) | [briellydias](https://github.com/briellydias) |
