@@ -24,11 +24,12 @@
 
 ## DESENVOLVEDORES 
 
-
-| Anelizi Carvalho | [LINK](https://www.linkedin.com/in/anelizi-carvalho-silva-204b741a4/) | [Anelizi](https://github.com/Anelizi)|
-| Carlos Eduardo | [LINK](https://www.linkedin.com/in/eduardo-fernandes-1001/) | [cadunands](https://github.com/cadunands) |
-| Douglas Almeida | [LINK](https://www.linkedin.com/in/douglas--nascimento/) | [DouglasN1712](https://github.com/DouglasN1712) |
-| Gabrielly Dias | [LINK](https://www.linkedin.com/in/gabriellyvitoriadias/) | [briellydias](https://github.com/briellydias) |
-| Giovana Siqueira | [LINK](https://www.linkedin.com/in/giovana--siqueira/) | [giovxna](https://github.com/giovxna) |
-| Matheus Fernandes | [LINK](https://www.linkedin.com/in/matheus-fernandes--/) | [Math-x18](https://github.com/Math-x18) |
-| Marina Takahashi | [LINK](https://www.linkedin.com/in/marina-takahashi/) | [poimaripoi](https://github.com/poimaripoi) |
+| NOME | LINKEDIN | GITHUB |
+|--- |--- |--- |
+| Anelizi | [Anelizi Carvaho](https://www.linkedin.com/in/anelizi-carvalho-silva-204b741a4/) | [Anelizi](https://github.com/Anelizi)|
+| Carlos Eduardo | [Eduardo Fernandes](https://www.linkedin.com/in/eduardo-fernandes-1001/) | [cadunands](https://github.com/cadunands) |
+| Douglas | [Douglas Nascimento](https://www.linkedin.com/in/douglas--nascimento/) | [DouglasN1712](https://github.com/DouglasN1712) |
+| Gabrielly | [Gabrielly Dias](https://www.linkedin.com/in/gabriellyvitoriadias/) | [briellydias](https://github.com/briellydias) |
+| Giovana | [Giovana Siqueira](https://www.linkedin.com/in/giovana--siqueira/) | [giovxna](https://github.com/giovxna) |
+| Matheus | [Matheus Fernandes](https://www.linkedin.com/in/matheus-fernandes--/) | [Math-x18](https://github.com/Math-x18) |
+| Marina  | [Marina Takahashi](https://www.linkedin.com/in/marina-takahashi/) | [poimaripoi](https://github.com/poimaripoi) |
