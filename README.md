@@ -8,13 +8,9 @@
 ![DEMODAY](https://user-images.githubusercontent.com/95506525/144679189-73aa999f-c2b4-48ec-b892-a79a92532a31.png)
 
 ## SOBRE
-<p align="center">
- Somos o Grupo 9 e este é o nosso projeto Demoday. Sejam bem-vindos!
-</p>
 
-
-- No Demoday, foi nos dado o tema gerador "Desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local, com foco em escalabilidade, inclusão, sustentabilidade e eficiência". Através desse tema, chegamos a uma conclusão: comércios locais costumam comprar poucas quantidades de estoque, por conta disso, o preço de venda aumenta. 
-- Vendo essa problemática, a Populus vem como uma solução: juntar comerciantes locais com o mesmo propósito de compra para dividirem mercadorias de uma forma prática e segura.
+- No Demoday, foi nos dado o tema gerador "Desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local, com foco em escalabilidade, inclusão, sustentabilidade e eficiência". Através desse tema, chegamos a uma conclusão: comércios locais costumam comprar poucas quantidades de estoque, e por conta disso, o preço de venda aumenta. 
+- Vendo essa problemática, a Populus vem com uma solução: juntar comerciantes locais com o mesmo propósito de compra para dividirem mercadorias de uma forma prática e segura.
 
 ## TECNOLOGIAS 
 
