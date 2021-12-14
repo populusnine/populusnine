@@ -30,6 +30,7 @@
 
 ## 🐙 LAYOUT
 
+Implementamos um aplicativo para incentivar mais ainda os comerciantes usarem a nossa ideia. 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ro4dtVvPcNcUzMdf6uszYN/APP-POPULUS?node-id=282%3A172). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 🐙 REDES SOCIAIS
@@ -37,6 +38,11 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - [Instagram](www.instagram.com/populusnine)
 - [Twitter](www.twitter.com/populusnine)
 - [Gmail](mailto:popninedemoday@gmail.com)
+
+## 🐙 PLANOS FUTUROS 
+
+- Implementação de serviço de entrega
+- Controle geral do seu comércio por meio da plataforma
 
 ## 🐙 DESENVOLVEDORES 
 
