@@ -7,12 +7,12 @@
 
 ![DEMODAY](https://user-images.githubusercontent.com/95506525/144679189-73aa999f-c2b4-48ec-b892-a79a92532a31.png)
 
-## SOBRE
+## 🐙 SOBRE
 
 - No Demoday, foi nos dado o tema gerador "Desenvolver uma solução em tecnologia Web, voltada para atender necessidades do mercado local, com foco em escalabilidade, inclusão, sustentabilidade e eficiência". Através dessa tese, chegamos a uma conclusão: comércios locais costumam comprar poucas quantidades de estoque, e por conta disso, o preço de venda aumenta. 
 - Vendo essa problemática, a Populus vem com uma solução: juntar comerciantes locais com o mesmo propósito de compra para dividirem mercadorias de uma forma prática e segura.
 
-## TECNOLOGIAS 
+## 🐙 TECNOLOGIAS 
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@
 - mySQL
 - Java
 
-## FERRAMENTAS
+## 🐙 FERRAMENTAS
 
 - Figma
 - Canva
@@ -28,17 +28,17 @@
 - Illustrator 
 - Trello 
 
-## LAYOUT
+## 🐙 LAYOUT
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ro4dtVvPcNcUzMdf6uszYN/APP-POPULUS?node-id=282%3A172). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## REDES SOCIAIS
+## 🐙 REDES SOCIAIS
 
 - [Instagram](www.instagram.com/populusnine)
 - [Twitter](www.twitter.com/populusnine)
 - [Gmail](mailto:popninedemoday@gmail.com)
 
-## DESENVOLVEDORES 
+## 🐙 DESENVOLVEDORES 
 
 | NOME | LINKEDIN | GITHUB |
 |--- |--- |--- |
