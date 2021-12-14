@@ -5,7 +5,7 @@
   <a href="#DESENVOLVEDORES">Desenvolvedores</a>
 </p>
 
-![DEMODAY](https://user-images.githubusercontent.com/95506525/144679189-73aa999f-c2b4-48ec-b892-a79a92532a31.png)
+![unknown](https://user-images.githubusercontent.com/95506525/145919809-41018f3a-292e-4f5d-af6e-b7f406c57765.png)
 
 ## 🐙 SOBRE
 
